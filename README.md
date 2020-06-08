@@ -1,7 +1,7 @@
 # To-Do-List
 To do list that uses local storage so do not forget to delete your items from the list ^.^
 
-Sipmle to-do-list that stores input data into your local storage so user will not lose data upon closing the webpage.
+Simple to-do-list that stores input data into your local storage so user will not lose data upon closing the webpage.
 Check  Chrome Dev-tools > Application > Storage > Local Storage  
 You should find an empty array or an array if you already passed data into the list.
 
