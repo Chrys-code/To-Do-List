@@ -13,3 +13,4 @@ Difference is the passed in inputTodo is now todos(array) from storage.
 
 
 
+![ToDoList](https://user-images.githubusercontent.com/55841911/87067995-db212500-c20c-11ea-9558-d7fdebad0171.png)
