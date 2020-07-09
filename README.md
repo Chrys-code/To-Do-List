@@ -12,4 +12,4 @@ You should find an empty array or an array if you already passed data into the l
 Difference is the passed in inputTodo is now todos(array) from storage.
 
 
-![image](https://user-images.githubusercontent.com/55841911/87067827-8382b980-c20c-11ea-93bf-9f2431016818.png)
+
